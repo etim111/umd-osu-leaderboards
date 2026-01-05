@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 @font-face {
     font-family: 'Torus-Light';
     src: url('Fonts/Torus-Light.woff2') format('truetype');
@@ -297,7 +296,8 @@ body {
     .leaderboard-entries-container span {
         font-size: 0.7rem;
     }
-=======
+}
+
 @font-face {
     font-family: 'Torus-Light';
     src: url('Fonts/Torus-Light.woff2') format('truetype');
@@ -596,5 +596,4 @@ body {
     .leaderboard-entries-container span {
         font-size: 0.7rem;
     }
->>>>>>> d54f6e5 (Move repo root above WebPage)
 }
