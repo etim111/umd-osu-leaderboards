@@ -7,7 +7,12 @@ fetch('leaderboard.json')
     .then(response => response.json())
     .then(data => {
         players = data;
-        players.sort((a, b) => a.globalRank - b.globalRank); // Sort by rank (lowest first)
+        players.sort((a, b) => {
+            if (a.globalRank === 0 && b.globalRank === 0) return 0;
+            if (a.globalRank === 0) return 1;  // a goes after b
+            if (b.globalRank === 0) return -1; // b goes after a
+            return a.globalRank - b.globalRank;
+        }); // Sort by rank (lowest first)
         displayPlayers(players);
 
         document.querySelector('.sort-arrow').addEventListener('click', () => {
