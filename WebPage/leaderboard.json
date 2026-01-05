@@ -10,6 +10,16 @@
     "top5AvgPP": 607.2
   },
   {
+    "profileId": 8583438,
+    "username": "BaoMao",
+    "globalRank": 18601,
+    "hitAccuracy": 98.39,
+    "playTime": 481,
+    "totalPP": 8122,
+    "topPP": 440.8,
+    "top5AvgPP": 424.8
+  },
+  {
     "profileId": 9508109,
     "username": "onetabby",
     "globalRank": 709,
@@ -18,6 +28,16 @@
     "totalPP": 14509,
     "topPP": 882.4,
     "top5AvgPP": 804.6
+  },
+  {
+    "profileId": 11069917,
+    "username": "kayn heartsteel",
+    "globalRank": 13328,
+    "hitAccuracy": 98.93,
+    "playTime": 1654,
+    "totalPP": 8763,
+    "topPP": 505.6,
+    "top5AvgPP": 462.9
   },
   {
     "profileId": 11305115,
@@ -58,6 +78,16 @@
     "totalPP": 9272,
     "topPP": 525.8,
     "top5AvgPP": 493.1
+  },
+  {
+    "profileId": 27816764,
+    "username": "kosame_rain",
+    "globalRank": 718676,
+    "hitAccuracy": 91.25,
+    "playTime": 41,
+    "totalPP": 1231,
+    "topPP": 100,
+    "top5AvgPP": 92.4
   },
   {
     "profileId": 37801466,
