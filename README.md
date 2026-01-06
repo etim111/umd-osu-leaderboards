@@ -8,3 +8,7 @@ A full-stack web application that tracks and displays osu! player performance ra
 - **Persistent Data Storage**: SQLite database maintains player statistics
 - **Multi-Platform Integration**: Seamlessly connects Google Forms, Sheets, and osu! API
 - **Public Access**: Hosted on Cloudflare with custom domain
+
+
+![Desktop Interface](Screenshots/Desktop.png)
+![Mobile Interface](Screenshots/Mobile.png)
