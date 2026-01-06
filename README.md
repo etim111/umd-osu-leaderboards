@@ -10,7 +10,7 @@ A full-stack web application that tracks and displays osu! player performance ra
 - **Public Access**: Hosted on Cloudflare with custom domain
 
 ## Screenshots
-<p>
-  <img src="Screenshots/Mobile.png" alt="Main Leaderboard" width="180">
-  <img src="Screenshots/Desktop.png" alt="Player Stats" width="787">
+<p align="center">
+  <img src="Screenshots/Mobile.png" height="400" style="margin-right: 10px;">
+  <img src="Screenshots/Desktop.png" height="400">
 </p>
